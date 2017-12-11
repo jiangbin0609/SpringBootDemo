@@ -34,13 +34,9 @@ public class PoiTest {
 	static Logger logger = Logger.getLogger(PoiTest.class);
 
 	public static void main(String[] args) throws IOException, ClassNotFoundException, SQLException {
-		你好();
+		
 	}
 	
-	public static void 你好() {
-		
-		System.out.println(姓名);
-	}
 
 	public void test1() throws IOException {
 		HSSFWorkbook hssfWorkbook = new HSSFWorkbook();
