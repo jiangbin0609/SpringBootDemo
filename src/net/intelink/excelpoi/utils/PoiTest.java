@@ -38,7 +38,7 @@ public class PoiTest {
 	}
 	
 	public static void 你好() {
-		String 姓名="蒋彬";
+		
 		System.out.println(姓名);
 	}
 
